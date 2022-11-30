@@ -1,0 +1,7 @@
+{
+  "name": "e-sport-rules",
+  "version": "1.0.0",
+  "dependencies": {
+    "@firebase/testing": "^0.20.11"
+  }
+}
